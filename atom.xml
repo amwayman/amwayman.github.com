@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Amway]]></title>
+  <link href="http://amwayman.github.io/atom.xml" rel="self"/>
+  <link href="http://amwayman.github.io/"/>
+  <updated>2013-09-27T05:48:24+08:00</updated>
+  <id>http://amwayman.github.io/</id>
+  <author>
+    <name><![CDATA[Js Lim]]></name>
+    <email><![CDATA[amway.jslim89@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
